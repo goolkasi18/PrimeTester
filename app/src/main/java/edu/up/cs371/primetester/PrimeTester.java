@@ -31,5 +31,6 @@ public class PrimeTester {
         }
         return true;
     }
+    //random
 }
 
